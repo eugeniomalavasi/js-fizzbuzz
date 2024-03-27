@@ -27,30 +27,22 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: 700;
+    font-size: 0.7rem;
     box-shadow: 3px 3px #00000042;
     border-radius: 5px;
     color: white;
 }
 .buzz {
     background-color: lightseagreen;
-    height: 50px;
-    width: 50px;
-    margin-bottom: 1rem;
 }
 
 .fizz {
     background-color: rgb(240, 177, 17);
-    height: 50px;
-    width: 50px;
-    margin-bottom: 1rem;
+
 }
 
 .buzzfizz {
     background-color: rgb(208, 116, 187);
-    height: 50px;
-    width: 50px;
-    margin-bottom: 1rem;
 }
 
 .number {
